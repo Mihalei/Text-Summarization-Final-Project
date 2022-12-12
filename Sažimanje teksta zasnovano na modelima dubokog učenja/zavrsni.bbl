@@ -1,0 +1,36 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Brajković et~al.(2018)Brajković, Volaric, i Vasić]{article1}
+Emil Brajković, Tomislav Volaric, i Daniel Vasić.
+\newblock Pregled tehnika automatskog sažimanja teksta.
+\newblock xiii, 05 2018.
+
+\bibitem[Pai(2019)]{article3}
+Aravind Pai.
+\newblock Comprehensive guide to text summarization using deep learning in
+  python, 2019.
+\newblock URL
+  \url{https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/}.
+\newblock [Online; accessed 29-May-2020].
+
+\bibitem[Sciforce(2019)]{article2}
+Sciforce.
+\newblock Towards automatic summarization. part 2. abstractive methods., 2019.
+\newblock URL
+  \url{https://medium.com/sciforce/towards-automatic-summarization-part-2-abstractive-methods-c424386a65ea}.
+\newblock [Online; accessed 29-May-2020].
+
+\bibitem[{Wikipedia contributors}(2020)]{wiki1}
+{Wikipedia contributors}.
+\newblock Automatic summarization --- {Wikipedia}{,} the free encyclopedia,
+  2020.
+\newblock URL
+  \url{https://en.wikipedia.org/w/index.php?title=Automatic_summarization&oldid=959628932}.
+\newblock [Online; accessed 29-May-2020].
+
+\end{thebibliography}

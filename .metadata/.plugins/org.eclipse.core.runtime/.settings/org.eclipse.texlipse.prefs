@@ -1,0 +1,13 @@
+class\ org.eclipse.texlipse.builder.BiberRunner_prog=C\:\\Users\\Admin\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64\\biber.exe
+class\ org.eclipse.texlipse.builder.BibtexRunner_prog=C\:\\Users\\Admin\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64\\bibtex.exe
+class\ org.eclipse.texlipse.builder.DvipdfRunner_prog=C\:\\Users\\Admin\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64\\dvipdfm.exe
+class\ org.eclipse.texlipse.builder.DvipsRunner_prog=C\:\\Users\\Admin\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64\\dvips.exe
+class\ org.eclipse.texlipse.builder.KpsewhichRunner_prog=C\:\\Users\\Admin\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64\\kpsewhich.exe
+class\ org.eclipse.texlipse.builder.LatexRunner_prog=C\:\\Users\\Admin\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64\\latex.exe
+class\ org.eclipse.texlipse.builder.LualatexRunner_prog=C\:\\Users\\Admin\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64\\lualatex.exe
+class\ org.eclipse.texlipse.builder.MakeindexNomenclRunner_prog=C\:\\Users\\Admin\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64\\makeindex.exe
+class\ org.eclipse.texlipse.builder.MakeindexRunner_prog=C\:\\Users\\Admin\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64\\makeindex.exe
+class\ org.eclipse.texlipse.builder.PdflatexRunner_prog=C\:\\Users\\Admin\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64\\pdflatex.exe
+class\ org.eclipse.texlipse.builder.Ps2pdfRunner_prog=C\:\\Users\\Admin\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64\\ps2pdf.exe
+class\ org.eclipse.texlipse.builder.XelatexRunner_prog=C\:\\Users\\Admin\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64\\xelatex.exe
+eclipse.preferences.version=1
